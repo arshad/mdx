@@ -3201,13 +3201,13 @@
     "@reach/utils" "0.11.2"
     tslib "^2.0.0"
 
-"@reach/skip-nav@0.12.1":
-  version "0.12.1"
-  resolved "https://registry.yarnpkg.com/@reach/skip-nav/-/skip-nav-0.12.1.tgz#082b7f22b8ab50e6bff6297137c13d0ad5a4bb64"
-  integrity sha512-LlnkUaVSQpo9grWbOHKC4Tc6ppwV7uiL+KhQ8388AB7sCbxL6zFo6WlZVNNHW5ahzQR86b3tQE9stf9rX2aJHw==
+"@reach/skip-nav@0.14.0":
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/@reach/skip-nav/-/skip-nav-0.14.0.tgz#f75139c657c3bf2769639395ae4482d9745e4bb4"
+  integrity sha512-DVEWYvtzYYWXdupqO4MefWxwfArgfR9YCrblsl1Q0wlMKr4BsLz0BbI7oVjCKns7uHaGeqvbbNyVUT1d5iJcIQ==
   dependencies:
-    "@reach/utils" "0.12.1"
-    tslib "^2.0.0"
+    "@reach/utils" "0.14.0"
+    tslib "^2.1.0"
 
 "@reach/utils@0.11.2":
   version "0.11.2"
@@ -3218,13 +3218,13 @@
     tslib "^2.0.0"
     warning "^4.0.3"
 
-"@reach/utils@0.12.1":
-  version "0.12.1"
-  resolved "https://registry.yarnpkg.com/@reach/utils/-/utils-0.12.1.tgz#02b9c15ba5cddf23e16f2d2ca77aef98a9702607"
-  integrity sha512-5uH4OgO+GupAzZuf3b6Wv/9uC6NdMBlxS6FSKD6YqSxP4QJ0vjD34RVon6N/RMRORacCLyD/aaZIA7283YgeOg==
+"@reach/utils@0.14.0":
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/@reach/utils/-/utils-0.14.0.tgz#f3ff579c737c3e9528f6f940bc518452f2636810"
+  integrity sha512-QbSFO5p44qUCkOllJM06Lt5A/EsoVIYlB9Ij1vKEezy53keaa5bc879dD2Ahv+mMf+E1VppCeiL6YYvdpJmVVQ==
   dependencies:
     "@types/warning" "^3.0.0"
-    tslib "^2.0.0"
+    tslib "^2.1.0"
     warning "^4.0.3"
 
 "@rebass/emotion@3.2.0":
